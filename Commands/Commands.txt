@@ -1,3 +1,7 @@
 # To update the dual boot SO order to load in ubuntu
 
 sudo gedit /boot/grub/grub.cfg
+
+# To delete entire directory 
+
+rm -rf dir
